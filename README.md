@@ -1,1 +1,1 @@
-The purpose of this project was to showcase a wide range of skills and abilities with a focus on backend development. I completed this site as my first proper Web Development project.
+The purpose of this project was to showcase a wide range of skills and abilities with a focus on backend development. I completed this site as my first proper Web Development project. All parts of this website were created as per my assignment instructions including images, colours and placement. During this assignment, I had no discretion over the visual elements that make up the website.
